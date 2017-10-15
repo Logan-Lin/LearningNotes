@@ -6,6 +6,8 @@
 - [Tips in Neural Networks](Tips%20in%20Neural%20Networks/index.md) 深度网络训练中的小技巧
 - [Dropout](Dropout/index.md)
 - [Regularizer](Regularizers/index.md) 正则化
+- [VIM keymaps](Vim/keymaps.md) Vim键位表
+- [Web server/application server/database server](Web%20Server/index.md) 三种服务器的概念
 
 ## 说明
 

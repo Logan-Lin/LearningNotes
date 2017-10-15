@@ -32,7 +32,7 @@
 - `kernel_regularizer`: 施加在权重上的正则项
 - `bias_regularizer`：施加在偏置向量上的正则项
 - `recurrent_regularizer`：施加在循环核上的正则项
-- `activity_regularizer`：施加在输出j上的正则项
+- `activity_regularizer`：施加在输出上的正则项
 
 # [How to Use Weight Regularization with LSTM Networks for Time Series Forcasting](http://machinelearningmastery.com/use-weight-regularization-lstm-networks-time-series-forecasting/)
 
