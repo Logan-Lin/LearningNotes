@@ -39,3 +39,9 @@ An opposite but analogous case is the Java EE platform. Java EE application serv
 A database server is a computer program that provides database services to other computer programs or to computers, as defined by the client-server model. The term may also refer to a computer dedicated to running such a program. Database management systems frequently provide database-server functionality, and some database management systems rely exclusively on the client-server model for database access.
 
 Users access a database server either through a "front end" running on the user's computer - which displays dequested data - or through the "bacl end", which runs on the server and handles tasks such as data analysis and storage.
+
+In a master-slave model ,database master servers are central and primary locations of data while database slave servers are synchronized backups of the master acting as proxies.
+
+Most database servers respond to a query language. Each database understands its query language and converts each submitted query to server-readable form and executes it to retrieve results.
+
+Examples of proprietart database servers include Oracle, DB2, Informix, and Microsoft SQL server. Examples of free software databases servers include PostgreSQL; and user the GUN General Public Licence include Ingres and MySQL. Every server uses its own query logic and structure. The SQL query language is more or less the same on all relational database servers.
